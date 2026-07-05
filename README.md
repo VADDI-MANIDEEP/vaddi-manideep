@@ -1,16 +1,84 @@
-## Hi there 👋
+# Hi there 👋, I'm Manideep
 
-<!--
-**VADDI-MANIDEEP/vaddi-manideep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+🎓 B.Tech CSE Student at GMR Institute of Technology (GMRIT)
 
-Here are some ideas to get you started:
+💻 Passionate about Programming, AI, Machine Learning, and Web Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning:
+- Data Structures & Algorithms
+- Python
+- Machine Learning
+- Git & GitHub
+
+🎯 Goal:
+Become a Software Engineer and AI/ML Developer.
+
+---
+
+## 🛠️ Skills
+
+### Programming Languages
+- Python
+- C
+- Java
+
+### Web Technologies
+- HTML
+- CSS
+- JavaScript
+
+### Databases
+- MySQL
+
+### Tools
+- Git
+- GitHub
+- VS Code
+
+---
+
+## 📚 Currently Working On
+
+- Solving DSA problems
+- Learning Machine Learning
+- Building Python Projects
+- Improving GitHub Profile
+
+---
+
+## 🚀 Featured Projects
+
+### 📌 Student Management System
+A simple Python project to manage student records.
+
+### 📌 COVID Risk Assessment
+Python project to predict COVID risk based on symptoms.
+
+### 📌 Local Business Support Platform
+A web platform connecting customers with local businesses.
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight)
+
+---
+
+## 🌐 Connect With Me
+
+- LinkedIn: https://linkedin.com/in/manideep-vaddi
+- Email:manideepvaddi0@gmail.com
+
+---
+
+## 💡 Quote
+
+> "Keep Learning. Keep Building. Keep Growing. 🚀"
+
+⭐ Thanks for visiting my profile!
